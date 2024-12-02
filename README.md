@@ -4,7 +4,7 @@ Ce projet explore deux approches pour l'analyse des sentiments :
 2. **RoBERTa** : Un modèle de Deep Learning pré-entraîné sur des données de texte pour la classification des sentiments.
 Ce dépôt contient :
 - Un notebook Google Colab (`sentiment_analysis.ipynb`) montrant comment utiliser VADER et RoBERTa pour analyser les sentiments.
-- Un jeu de données (si applicable).
+- Un jeu de données Reviews.csv .
 - Des visualisations des résultats.
 ### Prérequis
 - Python 3.x
